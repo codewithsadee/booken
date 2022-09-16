@@ -1,0 +1,290 @@
+Booken - Get Your New Book Collections
+
+This is a Book eCommerce html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = booken home
+
+placeholder = Search our store
+
+Search
+
+aria-label = cart
+0
+<ion-icon name="bag-handle-outline" aria-hidden="true"></ion-icon>
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+aria-label = user
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+
+aria-label = clsoe menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+placeholder = Search our store
+
+aria-label = Search
+<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+
+Home
+Blog
+Shop
+About Us
+Contact
+
+<ion-icon name="headset-outline" aria-hidden="true"></ion-icon>
+(+01)-234-56789
+
+
+
+#---------- HERO ----------#
+
+Get Your New
+Book Collections
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some formr.
+
+Explore More
+<ion-icon name="cart" aria-hidden="true"></ion-icon>
+
+aria-label = play video
+<ion-icon name="play-outline" aria-hidden="true"></ion-icon>
+
+aria-label = hero banner
+
+
+
+#---------- FEATURE ----------#
+
+alt = feature icon
+
+Free Shipping
+Order over $100
+
+Secure Payment
+100% Secure Payment
+
+Best Price
+Guaranteed Low Cost
+
+Easy Return
+Within 30 Days returns
+
+
+
+#---------- FEATURED COLLECTION ----------#
+
+Featured Collections
+
+Contrary to popular belief, Lorem Ipsum is not simply random.
+
+New
+
+alt = Black Night
+
+aria-label = quick view
+<ion-icon name="eye-outline" aria-hidden="true"></ion-icon>
+
+aria-label = add to wishlist
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+
+aria-label = compare
+<ion-icon name="repeat-outline" aria-hidden="true"></ion-icon>
+
+aria-label = add to cart
+<ion-icon name="bag-handle-outline" aria-hidden="true"></ion-icon>
+
+Black Night
+
+$80.00
+
+<ion-icon name="star-outline" aria-hidden="true"></ion-icon>
+
+
+alt = About The First Night
+About The First Night
+$19.00
+
+alt = Open The Sky
+Open The Sky
+$80.00
+
+alt = Book Hard Cover
+Book Hard Cover
+$55.00
+
+alt = The Big Book Of Science
+The Big Book Of Science
+$100.00
+
+alt = By The Air
+By The Air
+$89.00
+
+alt = Murdering Last Year
+Murdering Last Year
+$34.00
+
+alt = Stay Healthy
+Stay Healthy
+$67.00
+
+
+
+#---------- OFFER ----------#
+
+Special Offers
+
+All books are 50% off now! Don't miss such a deal!
+
+You will learn how to animate shapes like circles, lines, and polygons. You'll also learn how to animate CSS properties like color and size.
+
+15
+Days
+
+21
+Hour
+
+18
+Min
+
+14
+Sec
+
+Explore More
+
+
+
+#---------- POPULAR ----------#
+
+Popular Collections
+Contrary to popular belief, Lorem Ipsum is not simply random.
+
+filter = featured
+Featured Products
+
+filter = new
+New Products
+
+filter = sell
+Upsell Prodcuts
+
+filter = sell
+alt = Self Care
+Self Care
+$34.00
+
+filter = new
+alt = Welcome to Space
+Welcome to Space
+$150.00
+
+filter = sell
+alt = Monsoon
+Monsoon
+$23.00
+
+filter = featured
+alt = Every Thing You Ever
+Every Thing You Ever
+$57.00
+
+filter = new
+alt = Graphic Design School
+Graphic Design School
+$100.00
+
+filter = sell
+alt = Food Poison
+Food Poison
+$76.00
+
+filter = featured
+alt = Design
+Design
+Free
+
+filter = new
+alt = World News
+World News
+$20.00
+
+
+
+
+
+#---------- BLOG ----------#
+
+Latest Blog
+
+Contrary to popular belief, Lorem Ipsum is not simply random.
+
+alt = Significant reading has info
+
+Significant reading has info
+04 March, 2022
+1 comment
+
+The summer holidays are wonderful. Dressing for them can be significantly less so: Packing light...
+
+Read More...
+
+Activities Book International
+
+International activities of the book
+
+
+
+
+
+#---------- FOOTER ----------#
+
+alt = booken home
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor inci ut labore et dolore consectetur adipisicing elit sed do eiusmod tempor.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+
+    
+Corporate
+Careers
+About Us
+Contact Us
+FAQs
+Vendors
+
+Information
+Online Store
+Privacy Policy
+Refund Policy
+Shipping Policy
+Terms of Service
+
+Services
+Grooming
+Positive Dog Training
+Veterinary Services
+Insurance
+Book Writing
+
+
+Copyright 2022 | Made With Love by codewithsadee.
+
+alt = Payment method
+
+
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
